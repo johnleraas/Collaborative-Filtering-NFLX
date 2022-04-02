@@ -1,3 +1,7 @@
+<p align="left">
+  <img width = 15% height = 15% src="https://github.com/johnleraas/Collaborative-Filtering-NFLX/blob/main/docs/netflixlogo.jpg">
+</p>
+
 # Collaborative Filtering Recommendation System
 
 Collaborative filtering is a highly effective recommendation system and popularlized through the Netflix Prize competition in 2009. The basic intuition behind collaborative filtering is that if User1 and User2 both like items A, B, C, then if User1 also likes item D we would expect that User2 would like it as well. Bilinear prediction of the target variable (i.e. like, rating) is a simple parametric method that has been highly successful. Of particular interest, this is independent of any features associated with the specified items.
